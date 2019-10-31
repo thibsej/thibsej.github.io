@@ -178,7 +178,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  preprint:
+    output: true
+    permalink: /:collection/:path/
+  journal:
+    output: false
+    permalink: /:collection/:path/
+  conference:
     output: true
     permalink: /:collection/:path/
   portfolio:

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thibault Sejourne's webiste"
+title                    : "Thibault Sejourne's website"
 title_separator          : "-"
 name                     : &name "Thibault Sejourne"
 description              : &description "PhD candidate in Machine learning and Optimal transport"
@@ -83,9 +83,9 @@ author:
   name             : "Thibault Sejourne"
   avatar           : "profile.png"
   bio              : "PhD in Machine learning and Optimal transport"
-  location         : "Ecole Normale Superieure, Paris"
+  location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=ng54Q0wAAAAJ&hl=fr&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

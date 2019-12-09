@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Thibault Sejourne's website"
 title_separator          : "-"
-name                     : &name "Thibault Sejourne"
+name                     : &name "Thibault Séjourné"
 description              : &description "PhD candidate in Machine learning and Optimal transport"
 url                      : https://thibsej.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : KfDfZinINF4_auEkH4STxz7_9yBHGLYGu6f68816jyc
+google_site_verification : "KfDfZinINF4_auEkH4STxz7_9yBHGLYGu6f68816jyc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thibault Sejourne"
+  name             : "Thibault Séjourné"
   avatar           : "profile.jpg"
   bio              : "PhD in Machine learning and Optimal transport"
   location         : "Paris, France"

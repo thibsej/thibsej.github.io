@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 9_azRDv-z2GfyqU3QvEV2mpaoXHaQSYkNEbYeEI_FrE
+google_site_verification : KfDfZinINF4_auEkH4STxz7_9yBHGLYGu6f68816jyc
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-151609125-1
+    tracking_id          : UA-151609125-2
 
 
 # Site Author

@@ -5,5 +5,5 @@ type: "Poster"
 venue: "Neurips 2019 - Optimal Transport workshop"
 date: 2019-12-13
 location: "Vancouver, Canada"
-slideurl: "http://thibsej.github.io/files/poster_neurips_2019.pdf"
+posterurl: "http://thibsej.github.io/files/poster_neurips_2019.pdf"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sinkhorn Divergences for Unbalanced Optimal Transport"
+title: "Poster - Sinkhorn Divergences for Unbalanced Optimal Transport"
 collection: talks
-type: "Poster"
+type: "Talk"
 venue: "Neurips 2019 - Optimal Transport workshop"
 date: 2019-12-13
 location: "Vancouver, Canada"

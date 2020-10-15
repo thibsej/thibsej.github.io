@@ -45,7 +45,7 @@
 	
 	{% if post.collection == 'talks' %}
 		<i>{{ post.venue }}</i>,
-		{{ post.date }}
+		{{ post.date_text }}
 		{% if post.slideurl and post.abstracturl %}
 			<a href=" {{ post.slideurl }} "><u>Slides</u></a>, <a href=" {{ post.abstracturl }} "><u>Abstract</u></a>
 		{% endif %}

@@ -3,6 +3,6 @@ authors: 'Jean Feydy, Thibault Séjourné, François-Xavier Vialard, Shun-Ichi A
 title: 'Interpolating between optimal transport and MMD using Sinkhorn divergences'
 collection: conference
 date: 2018-10-18
-venue: 'Proceedings of the 22ndInternational Conference on Ar-tificial Intelligence and Statistics (AISTATS) 2019, Naha,Okinawa, Japan'
+venue: 'Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS) 2019, Naha, Okinawa, Japan'
 paperurl: 'http://proceedings.mlr.press/v89/feydy19a/feydy19a.pdf'
 ---
